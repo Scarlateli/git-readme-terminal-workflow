@@ -45,7 +45,7 @@ git add README.md
 git commit -m "Atualiza README com documentação completa"
 
 # Configuração SSH (se necessário)
-ssh-keygen -t ed25519 -C "seu-email@example.com"
+ssh-keygen -t ed25519 -C "seuemail.com"
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 cat ~/.ssh/id_ed25519.pub  # Copiar e adicionar no GitHub Settings > SSH keys
