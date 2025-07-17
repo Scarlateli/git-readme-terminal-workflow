@@ -29,7 +29,7 @@ Este repositório documenta o processo completo de atualização de um `README.m
 
 ---
 
-## 🚀 Workflow utilizado
+## Workflow utilizado
 
 ```bash
 # Clonar repositório
